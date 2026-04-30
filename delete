@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "reset repo"
+git branch -M main
+git remote add origin https://github.com/Sairaj-star/Zenith-.git
+git push -f origin main
